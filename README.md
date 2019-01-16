@@ -1,7 +1,7 @@
 # markdown-warm-up
 
  
-### <span style="color:Pink"> Werelds slechte website </span>
+### <span style="color:Purple"> Werelds slechte website </span>
 * World Worst Website 
 * http://www.angelfire.com/super/badwebs/
 * Gezien de staat van de website word deze niet geupdate
