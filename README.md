@@ -11,10 +11,10 @@
 Hij is niet mee met de tijd, slecht gebruik van kleuren.
 Mist veel creativiteit, de layout is een ramp.
 
-Is deze website aanwezig op sociale netwerken?
-neen
+# Is deze website aanwezig op sociale netwerken?
+* neen
 
-wijzigingen voor de toekomst
+# Wijzigingen voor de toekomst
 
 * het herstellen van de fout meling die aanwerzig is
 * een voledige restyling van kleuren en composisie
