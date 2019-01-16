@@ -23,4 +23,9 @@ Mist veel creativiteit, de layout is een ramp.
 * vanuit daar verder zien
 
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# Groepsleden
+
+* Luca
+* Gregory
+* Jaime
+* Roy
