@@ -1,7 +1,7 @@
 # markdown-warm-up
 
 
-### Wereld slechte website
+### Werelds slechte website
 * World Worst Website 
 * http://www.angelfire.com/super/badwebs/
 * Gezien de staat van de website word deze niet geupdate
