@@ -21,3 +21,6 @@ wijzigingen voor de toekomst
 -het verwijden van de achtergrond muziek
 -belangrijkste is alle overbodige, aflijdende grafische extratjes verwijderen
 -vanuit daar verder zien
+
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
